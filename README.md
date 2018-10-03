@@ -1,5 +1,5 @@
 # choose_best_pg
-Selects the most appropriate PGs one of the exported to a location. 
+Selects the most appropriate CEPH PGs (PLACEMENT GROUPS) one of the exported to a location. 
 
 
 
